@@ -1,3 +1,0 @@
-# NodeJSTest
-nodeJS test
-
